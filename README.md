@@ -1,5 +1,8 @@
 <h1 align="center">Hey there! 👋, I'm Santiago</h1>
 <h2 align="center">This is my academic account</h2>
+<p align="center">Academic projects exhibition</p>
+
+
 <h4 align="justify">
 Multimedia Engineering student currently in the 10th semester, with a passion for web development and a strong background in programming. Creative for design and a dedication to creating meaningful and user-friendly digital experiences that solve real-world problems. Constantly hones skills in various technologies.</h4>
 
@@ -13,7 +16,9 @@ Multimedia Engineering student currently in the 10th semester, with a passion fo
 
 - 🔥 I’m currently learning **MongoDB, Express, React, NodeJS, Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SantiagoAnzola1](https://github.com/SantiagoAnzola1)
+- 👨‍💻 All of my projects are available at:
+    -   [Academic GitHub](https://github.com/SantiagoAnzola)
+    -   [Personal GitHub](https://github.com/SantiagoAnzola1)
 
 - 💬 Ask me about **Javascript, HTML, CSS, SQL, ASP.NET, Java, C#, Python**
 
